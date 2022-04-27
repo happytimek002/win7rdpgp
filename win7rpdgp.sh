@@ -1,6 +1,6 @@
 apt-get update
 echo "同学们，朋友们，罗叔变戏法开始了！~现在在下载Windows文件中，请等候约1分钟左右时间..."
-wget -O win7.img http://pan.shejimao.ml/uploads/2022/04/10/7.img
+wget -O win7.img https://pan.shejimao.ml/api/v3/file/source/23/7.img?sign=p1rUPUWqiLPhfJcT5TSNwfv4uCBiwVbmCm7_yCA1fV0%3D%3A0
 echo "朋友们！下载ngrok远程连接组件中..."
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1
